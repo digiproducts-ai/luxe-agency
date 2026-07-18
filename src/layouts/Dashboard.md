@@ -8,6 +8,7 @@ The Dashboard layout provides a complete application shell with sidebar navigati
 **ALL DASHBOARD PAGES MUST USE THIS LAYOUT** - Never create dashboard pages with their own navigation or layout structure.
 
 ### Correct Implementation ✅
+{% raw %}
 ```tsx
 import Dashboard from '@/layouts/Dashboard';
 import { Home, Users, Settings, BarChart } from 'lucide-react';
@@ -43,6 +44,7 @@ export default function DashboardPage() {
   );
 }
 ```
+{% endraw %}
 
 ### Incorrect Implementation ❌
 ```tsx
@@ -124,6 +126,7 @@ interface MainConfig {
 
 ### Full-Featured Dashboard
 
+{% raw %}
 ```tsx
 import Dashboard from '@/layouts/Dashboard';
 import { 
@@ -275,9 +278,11 @@ export default function AdminDashboard() {
   );
 }
 ```
+{% endraw %}
 
 ### Minimal Dashboard
 
+{% raw %}
 ```tsx
 import Dashboard from '@/layouts/Dashboard';
 import { Home, Settings } from 'lucide-react';
@@ -308,9 +313,11 @@ export default function SimpleDashboard() {
   );
 }
 ```
+{% endraw %}
 
 ### Analytics Dashboard
 
+{% raw %}
 ```tsx
 import Dashboard from '@/layouts/Dashboard';
 import { 
@@ -373,6 +380,7 @@ export default function AnalyticsDashboard() {
   );
 }
 ```
+{% endraw %}
 
 ## Mobile Responsiveness
 
