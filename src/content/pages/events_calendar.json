@@ -1,0 +1,90 @@
+{
+  "DAYS": [
+    "Sun",
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+  ],
+  "meta": {
+    "eyebrow": "Across all brands",
+    "headline": "Events & Activities",
+    "description": "Every launch, workshop, and announcement from all three brands — all in one place."
+  },
+  "events": [
+    {
+      "id": "lis-1",
+      "date": "2026-06-30",
+      "title": "MindBloom Beta — Now Live!",
+      "type": "Launched",
+      "brand": "Luxe Ignite Style",
+      "brandKey": "luxe",
+      "description": "MindBloom launched on Google Play at the end of June. Download free and meet Blaze."
+    },
+    {
+      "id": "lis-2",
+      "date": "2026-08-15",
+      "title": "Creator Workshop",
+      "type": "Workshop",
+      "brand": "Luxe Ignite Style",
+      "brandKey": "luxe",
+      "description": "Free online workshop on digital content creation — EBooks, apps, and brand building."
+    },
+    {
+      "id": "lis-3",
+      "date": "2026-09-01",
+      "title": "Brand Reveal",
+      "type": "Announcement",
+      "brand": "Luxe Ignite Style",
+      "brandKey": "luxe",
+      "description": "Full agency brand reveal including new studio partnerships and product roadmap."
+    },
+    {
+      "id": "c0c-1",
+      "date": "2026-06-30",
+      "title": "MindBloom Beta — Now Live!",
+      "type": "Launched",
+      "brand": "Cognitive0Creations",
+      "brandKey": "studio",
+      "description": "MindBloom launched on Google Play at the end of June. Download free and meet Blaze."
+    },
+    {
+      "id": "c0c-2",
+      "date": "2026-08-15",
+      "title": "Creator Workshop",
+      "type": "Workshop",
+      "brand": "Cognitive0Creations",
+      "brandKey": "studio",
+      "description": "Free workshop on building digital products from concept to launch."
+    },
+    {
+      "id": "mb-1",
+      "date": "2026-06-30",
+      "title": "Beta Launch — Now Live!",
+      "type": "Launched",
+      "brand": "MindBloom",
+      "brandKey": "mindbloom",
+      "description": "MindBloom launched on Google Play at the end of June. Download free and meet Blaze."
+    },
+    {
+      "id": "mb-2",
+      "date": "2026-08-20",
+      "title": "Community Wellness Challenge",
+      "type": "Community",
+      "brand": "MindBloom",
+      "brandKey": "mindbloom",
+      "description": "A 7-day guided wellness challenge inside the app. Join thousands of bloomers."
+    },
+    {
+      "id": "mb-3",
+      "date": "2026-09-10",
+      "title": "New Course: Sleep Better",
+      "type": "Content",
+      "brand": "MindBloom",
+      "brandKey": "mindbloom",
+      "description": "A brand new mini course on sleep hygiene and evening routines drops in the app."
+    }
+  ]
+}

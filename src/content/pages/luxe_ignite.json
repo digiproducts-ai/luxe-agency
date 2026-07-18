@@ -1,0 +1,124 @@
+{
+  "hero": {
+    "eyebrow": "Digital Content Creator Agency",
+    "headline": "Ignite Your Brand. Elevate Your Story.",
+    "subheadline": "Luxe Ignite Style is a full-service digital content creation agency — architecting brands, studios, and products that captivate, convert, and endure.",
+    "ctaLabel": "Explore Our World",
+    "ctaHref": "#hierarchy"
+  },
+  "about": {
+    "eyebrow": "Who we are",
+    "headline": "Where Vision Meets Execution",
+    "body": "Luxe Ignite Style sits at the apex of a three-tier creative ecosystem. We conceive, fund, and guide the studios and products beneath us — ensuring every brand we touch carries the same standard of craft, warmth, and intention.",
+    "stats": [
+      {
+        "id": "1",
+        "value": "3",
+        "label": "Tiers of creative power"
+      },
+      {
+        "id": "2",
+        "value": "2+",
+        "label": "Active studio brands"
+      },
+      {
+        "id": "3",
+        "value": "∞",
+        "label": "Stories left to tell"
+      }
+    ]
+  },
+  "hierarchy": {
+    "eyebrow": "Our structure",
+    "headline": "Three Tiers. One Vision.",
+    "description": "Every great empire is built on clear structure. Ours is no different — from agency strategy down to the products your audience loves.",
+    "tiers": [
+      {
+        "id": "1",
+        "level": "Tier 1",
+        "name": "Luxe Ignite Style",
+        "role": "Parent Agency",
+        "description": "The strategic command centre. We set direction, manage brand standards, and oversee all studio operations and product launches.",
+        "href": "/",
+        "color": "amber"
+      },
+      {
+        "id": "2",
+        "level": "Tier 2",
+        "name": "Cognitive0Creations",
+        "role": "Studio Company Brand",
+        "description": "The creative engine. Responsible for producing EBooks, apps, digital tools, and all content products across the portfolio.",
+        "href": "/cognitive0creations",
+        "color": "moss"
+      },
+      {
+        "id": "3",
+        "level": "Tier 3",
+        "name": "MindBloom",
+        "role": "Flagship Product",
+        "description": "Our current main project — a cozy mental wellness app guided by Blaze, your AI fox companion. Everything you need to feel good.",
+        "href": "/mindbloom",
+        "color": "bark"
+      }
+    ]
+  },
+  "events": {
+    "eyebrow": "Stay connected",
+    "headline": "Events & Activities",
+    "description": "From product launches to community workshops — stay in the loop with everything happening across the Luxe Ignite Style ecosystem.",
+    "items": [
+      {
+        "id": "1",
+        "date": "2026-06-30",
+        "title": "MindBloom Beta — Now Live!",
+        "type": "Launched",
+        "description": "MindBloom launched on Google Play at the end of June. Download free and meet Blaze, your AI fox companion."
+      },
+      {
+        "id": "2",
+        "date": "2026-08-15",
+        "title": "Cognitive0Creations Creator Workshop",
+        "type": "Workshop",
+        "description": "A free online workshop on digital content creation — EBooks, apps, and brand building."
+      },
+      {
+        "id": "3",
+        "date": "2026-09-01",
+        "title": "Luxe Ignite Style Brand Reveal",
+        "type": "Announcement",
+        "description": "Full agency brand reveal including new studio partnerships and upcoming product roadmap."
+      }
+    ]
+  },
+  "connect": {
+    "eyebrow": "Get in touch",
+    "headline": "Let's Build Something Extraordinary",
+    "body": "Whether you're a creator, collaborator, or curious fan — we'd love to hear from you.",
+    "links": [
+      {
+        "id": "1",
+        "label": "MindBloom on Facebook",
+        "href": "https://www.facebook.com/profile.php?id=61590355246492",
+        "icon": "Facebook"
+      },
+      {
+        "id": "2",
+        "label": "Cognitive0Creations on Facebook",
+        "href": "https://www.facebook.com/cognitive0creations/",
+        "icon": "Facebook"
+      },
+      {
+        "id": "3",
+        "label": "cognitive0creations.com",
+        "href": "https://cognitive0creations.com",
+        "icon": "Globe"
+      },
+      {
+        "id": "4",
+        "label": "mindbloom.club",
+        "href": "https://mindbloom.club",
+        "icon": "Globe"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "hero": {
+    "headline": "Bloom Into a Calmer You",
+    "subheadline": "Meet Blaze — your warm, wise AI fox companion. Together with guided courses, breathing exercises, and yoga, MindBloom is your cozy corner for mental wellness.",
+    "ctaLabel": "Download on Google Play",
+    "ctaUrl": "https://play.google.com/store"
+  },
+  "blaze": {
+    "eyebrow": "Your AI companion",
+    "headline": "Meet Blaze",
+    "description": "Blaze is a warm-hearted fox who lives inside MindBloom, ready to listen, guide, and cheer you on. Whether you need a gentle nudge, a breathing reminder, or just someone to talk to — Blaze is always curled up and waiting.",
+    "traits": [
+      {
+        "id": "1",
+        "label": "Always available",
+        "detail": "Day or night, Blaze is there for you."
+      },
+      {
+        "id": "2",
+        "label": "Judgment-free",
+        "detail": "Share anything. Blaze only ever responds with warmth."
+      },
+      {
+        "id": "3",
+        "label": "Personalized guidance",
+        "detail": "Blaze learns what you need and grows with you."
+      }
+    ]
+  },
+  "features": {
+    "eyebrow": "What's inside",
+    "headline": "Everything you need to feel good",
+    "items": [
+      {
+        "id": "1",
+        "title": "Mini Courses",
+        "description": "Bite-sized lessons on anxiety, sleep, confidence, and more — designed to fit into your real life.",
+        "icon": "BookOpen"
+      },
+      {
+        "id": "2",
+        "title": "Breathing Exercises",
+        "description": "Guided breathwork to calm your nervous system in minutes. Box breathing, 4-7-8, and more.",
+        "icon": "Wind"
+      },
+      {
+        "id": "3",
+        "title": "Yoga Sessions",
+        "description": "Gentle flows for all levels — from morning stretches to evening wind-downs.",
+        "icon": "Flower2"
+      },
+      {
+        "id": "4",
+        "title": "AI Companion Blaze",
+        "description": "Your personal fox guide who checks in, listens, and helps you stay on track.",
+        "icon": "Heart"
+      },
+      {
+        "id": "5",
+        "title": "Daily Check-ins",
+        "description": "A quick daily ritual to track your mood and celebrate small wins.",
+        "icon": "Sun"
+      }
+    ]
+  },
+  "testimonials": {
+    "eyebrow": "From the community",
+    "headline": "Warm words from our bloomers",
+    "items": [
+      {
+        "id": "1",
+        "quote": "MindBloom changed how I start my mornings. Blaze always knows exactly what I need to hear.",
+        "author": "Priya M.",
+        "location": "Vancouver, BC"
+      },
+      {
+        "id": "2",
+        "quote": "I've tried so many wellness apps. This one actually feels like it cares about me — not just my data.",
+        "author": "Jordan T.",
+        "location": "Austin, TX"
+      },
+      {
+        "id": "3",
+        "quote": "The breathing exercises alone are worth it. I use them before every big meeting now.",
+        "author": "Sam K.",
+        "location": "London, UK"
+      }
+    ]
+  },
+  "cta": {
+    "headline": "Ready to bloom?",
+    "subheadline": "Download MindBloom free on Google Play and take the first step toward a calmer, warmer you.",
+    "ctaLabel": "Get it on Google Play",
+    "ctaUrl": "https://play.google.com/store"
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "logo/horizontal": {
+    "mediaType": "logo",
+    "currentUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/a829c001-0869-496b-8c51-6624cfb8011e/session/dbb14e78-ba66-46ab-aef4-8cb70417ee86/horizontal-transparent-e4877c12-557f-475d-bdcb-f817bd1ddc82/logo-logo.png",
+    "searchQuery": "A warm, nature-inspired wordmark logo for MindBloom — a friendly illustrated fox",
+    "alternatives": [],
+    "solidUrlMap": {},
+    "mockupUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/a829c001-0869-496b-8c51-6624cfb8011e/session/dbb14e78-ba66-46ab-aef4-8cb70417ee86/horizontal-transparent-e4877c12-557f-475d-bdcb-f817bd1ddc82/logo-logo.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/a829c001-0869-496b-8c51-6624cfb8011e/session/dbb14e78-ba66-46ab-aef4-8cb70417ee86/horizontal-mockup-e4877c12-557f-475d-bdcb-f817bd1ddc82/logo-logo.png"
+    },
+    "landscapeMockupUrlMap": {},
+    "logoSourceMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/a829c001-0869-496b-8c51-6624cfb8011e/session/dbb14e78-ba66-46ab-aef4-8cb70417ee86/horizontal-transparent-e4877c12-557f-475d-bdcb-f817bd1ddc82/logo-logo.png": {
+        "sessionId": "dbb14e78-ba66-46ab-aef4-8cb70417ee86",
+        "logoId": "e4877c12-557f-475d-bdcb-f817bd1ddc82",
+        "groupId": "cc7a65b2-efe9-4769-bbc6-5f3dd0e802d1"
+      }
+    },
+    "userModified": false,
+    "createdAt": "2026-07-04T21:29:28.290Z",
+    "lastUpdated": "2026-07-04T21:30:15.576Z",
+    "logoGroupId": "cc7a65b2-efe9-4769-bbc6-5f3dd0e802d1"
+  },
+  "pages/home/hero-forest": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2186465498",
+    "searchQuery": "cozy woodland forest warm amber light through trees",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1433420252",
+      "https://img1.wsimg.com/isteam/getty/1411389613"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-04T21:29:33.622Z",
+    "lastUpdated": "2026-07-04T21:29:33.622Z",
+    "gettyId": "2186465498",
+    "alternativeGettyIds": [
+      "1433420252",
+      "1411389613"
+    ],
+    "requestedSize": {
+      "width": 1600,
+      "height": 900,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "moods": "warm,natural"
+  },
+  "pages/home/yoga-nature": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-home-yoga-nature-98363d79.webp",
+    "searchQuery": "cheerful animated fox character smiling",
+    "alternatives": [
+      "/airo-assets/uploads/pages-home-yoga-nature-1003aa04.png",
+      "https://img1.wsimg.com/isteam/getty/1822479683",
+      "https://img1.wsimg.com/isteam/getty/2228455531",
+      "https://img1.wsimg.com/isteam/getty/2245145704"
+    ],
+    "userModified": true,
+    "createdAt": "2026-07-04T21:29:34.271Z",
+    "lastUpdated": "2026-07-04T21:32:03.062Z",
+    "alternativeGettyIds": [
+      "",
+      "1822479683",
+      "2228455531",
+      "2245145704"
+    ],
+    "requestedSize": {
+      "width": 800,
+      "height": 900,
+      "fit": "cover"
+    },
+    "orientations": "vertical",
+    "moods": "warm,natural",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-home-yoga-nature-1003aa04.png": "mqrxdl14zr_1783200680827_file_Ai5G-Qeegl.png",
+      "/airo-assets/uploads/pages-home-yoga-nature-98363d79.webp": "mqrxdl14zr_1783200723058_file_9yitL1hkOn.webp"
+    },
+    "caption": "cheerful animated fox character smiling"
+  },
+  "pages/home/breathing-calm": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2030734940",
+    "searchQuery": "person breathing meditation calm serene wellness",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1317735408",
+      "https://img1.wsimg.com/isteam/getty/2213465340"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-04T21:29:35.254Z",
+    "lastUpdated": "2026-07-04T21:29:35.254Z",
+    "gettyId": "2030734940",
+    "alternativeGettyIds": [
+      "1317735408",
+      "2213465340"
+    ],
+    "requestedSize": {
+      "width": 800,
+      "height": 800,
+      "fit": "cover"
+    },
+    "moods": "warm,natural"
+  },
+  "logo/favicon": {
+    "mediaType": "logo",
+    "currentUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/a829c001-0869-496b-8c51-6624cfb8011e/session/84ced8c5-780f-4050-8ef2-342645fb7fd1/favicon-transparent-1f92f2d4-cd7e-4f5a-a83d-deb7445d0918/logo-logo.png",
+    "searchQuery": "favicon",
+    "alternatives": [
+      "/airo-assets/uploads/airo-logo-shimmer-square.svg"
+    ],
+    "logoSourceMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/a829c001-0869-496b-8c51-6624cfb8011e/session/84ced8c5-780f-4050-8ef2-342645fb7fd1/favicon-transparent-1f92f2d4-cd7e-4f5a-a83d-deb7445d0918/logo-logo.png": {
+        "sessionId": "84ced8c5-780f-4050-8ef2-342645fb7fd1",
+        "logoId": "1f92f2d4-cd7e-4f5a-a83d-deb7445d0918",
+        "groupId": "cc7a65b2-efe9-4769-bbc6-5f3dd0e802d1"
+      }
+    },
+    "logoGroupId": "cc7a65b2-efe9-4769-bbc6-5f3dd0e802d1",
+    "userModified": false,
+    "createdAt": "2026-07-04T21:29:50.551Z",
+    "lastUpdated": "2026-07-04T21:30:15.712Z"
+  }
+}

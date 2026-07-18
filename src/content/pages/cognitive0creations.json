@@ -1,0 +1,66 @@
+{
+  "hero": {
+    "eyebrow": "Studio Company Brand — Tier 2",
+    "headline": "Where Ideas Become Products",
+    "subheadline": "Cognitive0Creations is the creative studio behind the Luxe Ignite Style portfolio — building EBooks, apps, and digital experiences that move people.",
+    "ctaLabel": "See Our Work",
+    "ctaHref": "#products"
+  },
+  "about": {
+    "eyebrow": "Our studio",
+    "headline": "Crafted with Intention",
+    "body": "We are the production arm of Luxe Ignite Style. Every product we build — from a 10-page EBook to a full mobile app — carries the same commitment to quality, warmth, and purpose. Cognitive0Creations is where the vision becomes real.",
+    "facebookHref": "https://www.facebook.com/cognitive0creations/",
+    "websiteHref": "https://cognitive0creations.com"
+  },
+  "products": {
+    "eyebrow": "What we create",
+    "headline": "Our Products",
+    "items": [
+      {
+        "id": "1",
+        "name": "MindBloom",
+        "type": "Mobile App",
+        "description": "A cozy mental wellness app guided by Blaze, your AI fox companion. Courses, breathing, yoga, and daily check-ins.",
+        "href": "/mindbloom",
+        "status": "Active"
+      },
+      {
+        "id": "2",
+        "name": "Wellness EBook Series",
+        "type": "EBook",
+        "description": "A growing library of digital guides on mental health, mindfulness, and personal growth.",
+        "href": "#",
+        "status": "Coming Soon"
+      },
+      {
+        "id": "3",
+        "name": "Creator Toolkit",
+        "type": "Digital Product",
+        "description": "Templates, frameworks, and resources for digital content creators building their own brands.",
+        "href": "#",
+        "status": "Coming Soon"
+      }
+    ]
+  },
+  "events": {
+    "eyebrow": "Studio calendar",
+    "headline": "Upcoming from the Studio",
+    "items": [
+      {
+        "id": "1",
+        "date": "2026-06-30",
+        "title": "MindBloom Beta — Now Live!",
+        "type": "Launched",
+        "description": "MindBloom launched on Google Play at the end of June. Download free and meet Blaze."
+      },
+      {
+        "id": "2",
+        "date": "2026-08-15",
+        "title": "Creator Workshop",
+        "type": "Workshop",
+        "description": "Free online workshop — how we build digital products from concept to launch."
+      }
+    ]
+  }
+}

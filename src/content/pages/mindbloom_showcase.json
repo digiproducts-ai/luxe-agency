@@ -1,0 +1,79 @@
+{
+  "hero": {
+    "eyebrow": "Flagship Product — Tier 3",
+    "headline": "Everything You Need to Feel Good",
+    "subheadline": "MindBloom is a cozy mental wellness app guided by Blaze, your warm AI fox companion. Mini courses, breathing exercises, yoga, and daily check-ins — all in one place.",
+    "ctaLabel": "Download on Google Play",
+    "ctaHref": "https://play.google.com/store",
+    "facebookHref": "https://www.facebook.com/profile.php?id=61590355246492",
+    "websiteHref": "https://mindbloom.club"
+  },
+  "features": {
+    "eyebrow": "What's inside",
+    "headline": "Your Wellness Toolkit",
+    "items": [
+      {
+        "id": "1",
+        "title": "Mini Courses",
+        "description": "Bite-sized lessons on anxiety, sleep, confidence, and more.",
+        "icon": "BookOpen"
+      },
+      {
+        "id": "2",
+        "title": "Breathing Exercises",
+        "description": "Guided breathwork to calm your nervous system in minutes.",
+        "icon": "Wind"
+      },
+      {
+        "id": "3",
+        "title": "Yoga Sessions",
+        "description": "Gentle flows for all levels — morning stretches to evening wind-downs.",
+        "icon": "Flower2"
+      },
+      {
+        "id": "4",
+        "title": "Blaze AI Companion",
+        "description": "Your personal fox guide who listens, checks in, and cheers you on.",
+        "icon": "Heart"
+      },
+      {
+        "id": "5",
+        "title": "Daily Check-ins",
+        "description": "Track your mood and celebrate small wins every day.",
+        "icon": "Sun"
+      }
+    ]
+  },
+  "events": {
+    "eyebrow": "MindBloom calendar",
+    "headline": "Upcoming Events",
+    "items": [
+      {
+        "id": "1",
+        "date": "2026-06-30",
+        "title": "Beta Launch — Now Live!",
+        "type": "Launched",
+        "description": "MindBloom launched on Google Play at the end of June. Download free and meet Blaze."
+      },
+      {
+        "id": "2",
+        "date": "2026-08-20",
+        "title": "Community Wellness Challenge",
+        "type": "Community",
+        "description": "A 7-day guided wellness challenge inside the app. Join thousands of bloomers."
+      },
+      {
+        "id": "3",
+        "date": "2026-09-10",
+        "title": "New Course Drop: Sleep Better",
+        "type": "Content",
+        "description": "A brand new mini course on sleep hygiene and evening routines drops in the app."
+      }
+    ]
+  },
+  "social": {
+    "facebookHref": "https://www.facebook.com/profile.php?id=61590355246492",
+    "websiteHref": "https://mindbloom.club",
+    "playStoreHref": "https://play.google.com/store"
+  }
+}
